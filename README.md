@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeepakRajasekaran
-- 👀 I’m interested in Robotics, Automation & IOT, System Administration
+- 👀 I’m interested in Robotics, Artificial Intelligence, Automation & IOT, System Administration
 - 🌱 I’m currently learning Python, System Administration
 
 <!---
