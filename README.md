@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeepakRajasekaran
+- 👋 Hi, I’m DeepakRajasekaran, a tech enthusiastic Mechatronics engineering student
 - 👀 I’m interested in Robotics, Artificial Intelligence, Automation & IOT, System Administration
 - 🌱 I’m currently learning Python, System Administration
 
