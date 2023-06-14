@@ -13,9 +13,22 @@
 
 🌟**Interests**
 
+- 🤖 Machine Vision
+- 🌐 Web Development
+- 🦾 Robotics & IOT
+- 🖧 Network Administration
+- 🖥️ System Administration
+
+
+🛠️**Tech Stack**
+
 ![C Badge](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+💡**Learning**
+
+
 
 
 <div align="center">
