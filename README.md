@@ -16,7 +16,7 @@
 - 🤖 Machine Vision
 - 🌐 Web Development
 - 🦾 Robotics & IOT
-- 🖧 Network Administration
+- 🔗 Network Administration
 - 🖥️ System Administration
 
 
