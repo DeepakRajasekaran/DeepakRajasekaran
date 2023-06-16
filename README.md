@@ -25,7 +25,7 @@
 🛠️**Tech Stack**
 
 ![C Badge](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Python Badge](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 
