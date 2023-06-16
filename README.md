@@ -6,9 +6,11 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Deepak&nbsp;Rajasekaran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepakrajasekaran/)](https://www.linkedin.com/in/deepakrajasekaran/)
-[![Gmail Badge](https://img.shields.io/badge/-rajasekarand375@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajapsekarand375@gmail.com)](mailto:rajasekarand375@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-rajasekarand375@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajapsekarand375@gmail.com)](mailto:rajasekarand375@gmail.com)
+[![Github Pages](https://img.shields.io/badge/My%20Website-121013?style=flat-square&logo=github&logoColor=white)](deepakrajasekaran.github.io)
 
-- 🎯 Portfolio website: Will Be Updated...
+
+- 🎯 Checkout my website to know more about me.
 - 📬 How to reach me: [Let's get in touch](https://www.linkedin.com/in/deepakrajasekaran/)
 
 🌟**Interests**
