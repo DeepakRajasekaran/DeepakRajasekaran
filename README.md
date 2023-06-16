@@ -25,6 +25,7 @@
 ![C Badge](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 
 💡**Learning**
 
@@ -34,10 +35,8 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/Latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
-
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat-square&logo=opencv)
 ![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=flat-square&logo=ros&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 
