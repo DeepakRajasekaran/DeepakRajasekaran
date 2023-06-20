@@ -7,7 +7,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Deepak&nbsp;Rajasekaran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepakrajasekaran/)](https://www.linkedin.com/in/deepakrajasekaran/)
 [![Gmail Badge](https://img.shields.io/badge/-rajasekarand375@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajapsekarand375@gmail.com)](mailto:rajasekarand375@gmail.com)
-[![Visit My Website](https://img.shields.io/badge/Visit%20My%20Website-Click%20Here-blue?style=flat-square)](deepakrajasekaran.github.io)
+[![GitHub badge](https://img.shields.io/badge/deepakrajasekaran.github.io-%23121011.svg?style=flat-square&logo=github&logoColor=white)](deepakrajasekaran.github.io)
 
 
 - 🎯 Checkout my website to know more about me.
