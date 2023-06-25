@@ -19,8 +19,7 @@
 - 🤖 Machine Vision
 - 🦾 Robotics & IOT
 - 🌐 Web Development
-- 🔗 Network Administration
-- 🖥️ System Administration
+- 🖥️ System & networks
 
 
 🛠️**Tech Stack**
