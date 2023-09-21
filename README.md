@@ -18,7 +18,6 @@
 - 🔧 Prototyping
 - 🤖 Machine Vision
 - 🦾 Robotics & IOT
-- 🌐 Web Development
 - 🖥️ System & networks
 
 
