@@ -2,7 +2,7 @@
 
 ### Hi There, I am Deepak Rajasekaran 👋
 
-- 🎯 Checkout my website to know more about me.
+- 🎯 Checkout my [website](deepakrajasekaran.github.io) to know more about me.
 - 📬 Reach me @ [![Gmail Badge](https://img.shields.io/badge/-rajasekarand375@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajapsekarand375@gmail.com)](mailto:rajasekarand375@gmail.com)
 
 🌟**Interests**
