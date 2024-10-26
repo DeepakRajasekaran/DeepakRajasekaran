@@ -7,28 +7,24 @@
 
 🌟**Interests**
 
-- 🔧 Prototyping
-- 🤖 Machine Vision
 - 🦾 Robotics & IOT
 - 🖥️ System & networks
+- 🤖 Machine Vision
+- 🔧 Prototyping
 
 
 🛠️**Tech Stack**
 
 ![C Badge](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat-square&logo=opencv)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-
-💡**Learning**
-
-![Raspberry Pi Badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=flat-square)
 ![ROS Badge](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=fff&style=flat-square)
-![LaTeX Badge](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=flat-square)
-![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 
 
 
