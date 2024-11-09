@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=fff&width=435&lines=Ashwanee+Kumar+Gupta" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=011F40&width=435&lines=Ashwanee+Kumar+Gupta" />
-<img alt="Deepak Rajasekaran S" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=ffcc34&width=435&lines=Ashwanee+Kumar+Gupta" />
+<img alt="Deepak Rajasekaran S" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=ffcc34&width=435&lines=Deepak+Rajasekaran+S" />
 </picture>
 
 - 🎯 Checkout my [website](deepakrajasekaran.github.io) to know more about me.
