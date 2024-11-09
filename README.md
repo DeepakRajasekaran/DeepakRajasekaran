@@ -20,7 +20,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,linux,git,bash,python,cpp,c,opencv,ros,docker&theme=light)](https://skillicons.dev)
 
-<div align="center">
-    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div>
 
