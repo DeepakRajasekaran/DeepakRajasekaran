@@ -16,7 +16,7 @@
 - 🔧 Prototyping
 
 
-🛠️**I usually work with ..**
+🛠️****I usually work with ..****
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,linux,git,bash,python,cpp,c,opencv,ros,docker&theme=dark)](https://skillicons.dev)
 
