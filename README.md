@@ -15,7 +15,7 @@
 
 🛠️**I often used ..**
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,linux,git,shell,python,c++,ros,c,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,linux,git,shell,python,c++,ros,c,&perline=7)](https://skillicons.dev)
 
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
