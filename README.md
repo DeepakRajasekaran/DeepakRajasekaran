@@ -18,6 +18,6 @@
 
 <h3>🛠️ I usually work with ..</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=,linux,git,bash,python,cpp,c,opencv,ros,docker,arduino,raspberrypi&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,bash,python,cpp,c,opencv,ros,docker,arduino,raspberrypi&theme=dark)](https://skillicons.dev)
 
 
